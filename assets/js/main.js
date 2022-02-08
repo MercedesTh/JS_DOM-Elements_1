@@ -3,7 +3,7 @@ let changeMe = document.getElementById("navChange");
 
 
 function changeLink() {
-    // console.log("test"); (funktioniert nicht)
+    console.log("test");
 
     home.classList.toggle("changed");
 }
